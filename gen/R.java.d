@@ -1,0 +1,19 @@
+C:\Users\iAkshay\Downloads\TicTacToe\gen\com\elite\tictactoe\R.java \
+ : C:\Users\iAkshay\Downloads\TicTacToe\res\drawable\icon.png \
+C:\Users\iAkshay\Downloads\TicTacToe\res\drawable-hdpi\icon.png \
+C:\Users\iAkshay\Downloads\TicTacToe\res\drawable-ldpi\icon.png \
+C:\Users\iAkshay\Downloads\TicTacToe\res\drawable-mdpi\icon.png \
+C:\Users\iAkshay\Downloads\TicTacToe\res\drawable-xhdpi\icon.png \
+C:\Users\iAkshay\Downloads\TicTacToe\res\layout\main.xml \
+C:\Users\iAkshay\Downloads\TicTacToe\res\values\strings.xml \
+C:\Users\iAkshay\Downloads\TicTacToe\res\xml\config.xml \
+C:\Users\iAkshay\Downloads\TicTacToe\bin\res\drawable\icon.png \
+C:\Users\iAkshay\Downloads\TicTacToe\bin\res\drawable-hdpi\icon.png \
+C:\Users\iAkshay\Downloads\TicTacToe\bin\res\drawable-hdpi\ic_launcher.png \
+C:\Users\iAkshay\Downloads\TicTacToe\bin\res\drawable-ldpi\icon.png \
+C:\Users\iAkshay\Downloads\TicTacToe\bin\res\drawable-ldpi\ic_launcher.png \
+C:\Users\iAkshay\Downloads\TicTacToe\bin\res\drawable-mdpi\icon.png \
+C:\Users\iAkshay\Downloads\TicTacToe\bin\res\drawable-mdpi\ic_launcher.png \
+C:\Users\iAkshay\Downloads\TicTacToe\bin\res\drawable-xhdpi\icon.png \
+C:\Users\iAkshay\Downloads\TicTacToe\bin\res\drawable-xhdpi\ic_launcher.png \
+C:\Users\iAkshay\Downloads\TicTacToe\bin\AndroidManifest.xml \
